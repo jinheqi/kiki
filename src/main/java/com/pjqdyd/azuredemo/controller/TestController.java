@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping("/sayHi")
     public String sayHi(){
-        return "To test Azure DevOps(test2)";
+        return "Azure DevOps";
     }
 }
